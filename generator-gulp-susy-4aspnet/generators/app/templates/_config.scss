@@ -1,0 +1,10 @@
+// Susy Grid Custom settings 
+
+$susy: (
+	container: 75em,
+	columns : 12,
+	gutter  :1/4,
+	debug:(image:show),
+	global-box-sizing: border-box,
+	output : float
+);
